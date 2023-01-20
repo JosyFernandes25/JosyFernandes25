@@ -1,6 +1,6 @@
 ### Olá Pessoal, bem vindos ao meu GitHub! 👋🏼
 
-**Bem, eu me chamo Josy Fernandes e sou uma Quality Assurance em transição! Atualmente tenho buscado cumprir os desafios de aprendizagem das tecnologias da área de ánalise de qualidade de Software, e tenho (modéstia parte) tido um bom desenvolvimento dessa nova proposta!**
+**Bem, eu me chamo Josy Fernandes e sou uma Quality Assurance em transição! Atualmente tenho buscado cumprir os desafios de aprendizagem da área de Análise de Qualidade de Software, e tenho (modéstia parte) tido um bom desenvolvimento dessa nova proposta!**
 
 **🧑🏽‍💼 Em tecnologia, já desenvolvo trabalhos Freelancer para plataforma de Testes Crowdtest. E lá realizo:**
 
@@ -10,30 +10,33 @@
 
 **◽️ Report de Bugs através de descrição em Step By Step.**
 
-**◽️ Criação de evidências de imagem e vídeo.**
+**◽️ Criação de evidências em imagem e vídeo.**
 
 **◽️ Sugestões de melhorias para o software.**
 
-**_◾️ Na área de Testes, possuo conhecimentos acerca de:_**
 
-**◽️ Planejamento de teste: Estratégias, massa de dados, casos e cenários de teste (Step by Step e Gherkin).**
+**_◾️ Para além, na área de Testes possuo conhecimentos acerca de:_**
 
-**◽️ Gerenciamento de tarefas utilizando JIRA.**
+**📋 Planejamento de teste: Estratégias, massa de dados, casos e cenários de teste (Step by Step e Gherkin).**
 
-**◽️ Metodologia ágil sobre proposta Scrum.**
+**📊 Gerenciamento de tarefas utilizando JIRA.**
 
-**◽️ Execução de testes manuais Funcionais.**
+**🏃 Metodologia ágil sobre proposta Scrum.**
 
-**◽️ Testes de Integração: Teste de API com Postman.**
+**👋 Execução de testes manuais Funcionais.**
 
-**◽️ Automação de Teste E2E: Em linguagem JAVA, com Framework Selenium + JUnit.**
+**🔄 Testes de Integração: Teste de API com Postman.**
 
-**◽️ Conhecimentos acerca de HTML e CSS.**
+**🦾 Automação de Teste E2E: Em linguagem JAVA, com Framework Selenium + JUnit.**
 
-**◽️ Conhecimentos sobre banco de dados com MySQL.**
+**✏️ Conhecimentos acerca de HTML e CSS.**
+
+**🏛 Conhecimentos sobre banco de dados com MySQL.**
+
+**💡 Conhecimentos sobre Lógica de programção e Algoritmos.**
 
 
-**_NESTE REPOSITÓRIO SERÃO POSTADOS MEUS CÓDIGOS E TESTES DESENVOLVIDOS NESTA JORNADA DE ESTUDOS. TODOS ELES SINALIZADOS COM DICAS E COMENTÁRIOS PERTINENTES QUE POSSAM SERVIR DE APOIO PARA O ESTUDO DAQUELES QUE COMO EU BUSCAM APROFUNDAR SEUS CONHECIMENTOS_ ✨**
+**_O INTUITO DESTE REPOSITÓRIO É A DIVULGAÇÃO DE MEUS CÓDIGOS, ARTEFATOS E TESTES DESENVOLVIDOS NESTA JORNADA DE ESTUDOS. TODOS ELES SINALIZADOS COM DICAS E COMENTÁRIOS PERTINENTES QUE POSSAM SERVIR DE APOIO PARA O ESTUDO DAQUELES QUE COMO EU BUSCAM APROFUNDAR SEUS CONHECIMENTOS_ ✨**
 
 
 
