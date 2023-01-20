@@ -13,3 +13,27 @@
 **◽️ Criação de evidências de imagem e vídeo.**
 
 **◽️ Sugestões de melhorias para o software.**
+
+**_◾️ Na área de Testes, possuo conhecimentos acerca de:_**
+
+**◽️ Planejamento de teste: Estratégias, massa de dados, casos e cenários de teste (Step by Step e Gherkin).**
+
+**◽️ Gerenciamento de tarefas utilizando JIRA.**
+
+**◽️ Metodologia ágil sobre proposta Scrum.**
+
+**◽️ Execução de testes manuais Funcionais.**
+
+**◽️ Testes de Integração: Teste de API com Postman.**
+
+**◽️ Automação de Teste E2E: Em linguagem JAVA, com Framework Selenium + JUnit.**
+
+**◽️ Conhecimentos acerca de HTML e CSS.**
+
+**◽️ Conhecimentos sobre banco de dados com MySQL.**
+
+
+**_NESTE REPOSITÓRIO SERÃO POSTADOS MEUS CÓDIGOS E TESTES DESENVOLVIDOS NESTA JORNADA DE ESTUDOS. TODOS ELES SINALIZADOS COM DICAS E COMENTÁRIOS PERTINENTES QUE POSSAM SERVIR DE APOIO PARA O ESTUDO DAQUELES QUE COMO EU BUSCAM APROFUNDAR SEUS CONHECIMENTOS_ ✨**
+
+
+
