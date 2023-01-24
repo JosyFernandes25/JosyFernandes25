@@ -33,7 +33,7 @@
 
 **🏛 Conhecimentos sobre banco de dados com MySQL.**
 
-**💡 Conhecimentos sobre Lógica de programção e Algoritmos.**
+**💡 Conhecimentos sobre Lógica de programação e Algoritmos.**
 
 
 **_O INTUITO DESTE REPOSITÓRIO É A DIVULGAÇÃO DE MEUS CÓDIGOS, ARTEFATOS E TESTES DESENVOLVIDOS NESTA JORNADA DE ESTUDOS. TODOS ELES SINALIZADOS COM DICAS E COMENTÁRIOS PERTINENTES QUE POSSAM SERVIR DE APOIO PARA O ESTUDO DAQUELES QUE COMO EU BUSCAM APROFUNDAR SEUS CONHECIMENTOS_ ✨**
