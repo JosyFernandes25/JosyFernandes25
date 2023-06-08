@@ -28,3 +28,5 @@ _HTML e CSS._
 
 **Se sintam à vontade para conhecer meu trabalho! Segue o link do porftófio de meus trabalhos na Lacrei Saúde: https://www.notion.so/Lacrei-Sa-de-Portf-lio-224cd74d5cdb44bea9050695575ae1f2 ✨**
 
+**Conheçam também meus cursos e formações : https://invited-apparatus-8a8.notion.site/5a9d3211f4b649e4aed3edc0566acdac?v=6c6a134ca33741b48ae892782081f806&pvs=4** 
+🎇
